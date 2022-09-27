@@ -1,4 +1,4 @@
-public with sharing class Collections {
+public with sharing class ApexPractice {
   public Collections() {
   }
 
